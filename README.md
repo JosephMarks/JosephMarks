@@ -5,6 +5,7 @@
 - https://joemichaelmarks.github.io/cv/
 - 📫 How to reach me: jmichaelmarks@tutanota.com 
                       jmarks@stevens.edu 
+                      jmichaelmarks.nc@gmail.com
 
 <!---
 JosephMarks/JosephMarks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
