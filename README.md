@@ -3,8 +3,8 @@
 - 🌱 I’m currently building a finance application in Django that interfaces with NetSuite, AirTable, and Ramp, and building a web application in node.js this semester in my coursework at Stevens Institute of Technology ...
 - 💞️ I’m looking to collaborate on interesting projects ...
 - https://joemichaelmarks.github.io/cv/
-- 📫 How to reach me: | jmichaelmarks@tutanota.com |
-                      | jmarks@stevens.edu |
+- 📫 How to reach me: | jmichaelmarks@tutanota.com 
+                      | jmarks@stevens.edu 
                       | jmichaelmarks.nc@gmail.com |
 
 
